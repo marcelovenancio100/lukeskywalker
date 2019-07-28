@@ -1,1 +1,1 @@
-# Simple Spring Boot Project with MongoDB 
+# Simple Spring Boot Project with MongoDB
